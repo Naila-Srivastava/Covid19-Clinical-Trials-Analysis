@@ -1,6 +1,6 @@
 # 🧬 Covid-19 Clinical Trials Analysis Project
 
-Welcome to my Covid-19 Clinical Trials Analysis project! This deep dive explores the global response to the Covid-19 pandemic through the lens of clinical research. Using Python and Tableau, we unpack trends, trial phases, intervention types, and more—all sourced from clinicaltrials.gov.
+Welcome to my Covid-19 Clinical Trials Analysis project! This deep dive explores the global response to the Covid-19 pandemic through the lens of clinical research. Using Python and Tableau, we unpack trends, trial phases, intervention types, and more: sourced from clinicaltrials.gov.
 
 ## 🧠 Objective
 
@@ -8,7 +8,6 @@ To analyze the global landscape of Covid-19 clinical trials by:
 - Cleaning and preprocessing raw trial data
 - Performing in-depth data analysis (Univariate and Bivariate Data Analysis)
 - Creating meaningful visualizations of key trends
-- Engineering features for deeper insights
 - Laying the groundwork for potential machine learning use cases
 
 ## 🔧 Tools & Technologies
@@ -20,8 +19,8 @@ To analyze the global landscape of Covid-19 clinical trials by:
 
 ## 📁 Dataset
 
-- The dataset includes information on Covid-19-related trials: country, phase, intervention type, sponsor, enrollment size, and more.
-- Due to privacy and size limits, the full dataset isn't included in this repo.
+- The dataset includes information on Covid-19-related trials: NCT number, country, phase, intervention type, sponsor, enrollment size, starting date, completion date and more.
+- Due to privacy and size limits, the full dataset is not included in this repo.
 
 ➡️ [Download dataset here] [https://www.kaggle.com/datasets/nailasrivastava/covid-19-clinical-trials-data ]
 
@@ -65,7 +64,7 @@ To analyze the global landscape of Covid-19 clinical trials by:
 * Add machine learning to predict trial outcomes or estimate completion times
 * Integrate Natural Language Processing (NLP) to analyze trial descriptions and titles
 * Create a real-time dashboard using live data sources (e.g., ClinicalTrials.gov API)
-* Deploy this as a web app for researchers, policymakers, and science nerds 💉🌍
+* Deploy this as a web app for researchers and policymakers 💉🌍
 
 ## 🙌 Acknowledgments
 Huge thanks to the open-source community and dataset contributors. 
@@ -73,7 +72,6 @@ This project was done as part of a 12-week upskilling sprint (Data Analyst Inter
 
 Massive thanks to:
 * **ClinicalTrials.gov** – for making the raw data accessible
-* **Python & Tableau Gods** – for the tools that made this whole thing work
 * And all healthcare professionals, researchers, and volunteers involved in COVID-19 trials
 
 ## 📂 Project Structure
