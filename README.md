@@ -1,4 +1,4 @@
-# 🧬 Covid-19 Clinical Trials Analysis Project
+# Covid-19 Clinical Trials Analysis Project
 
 Welcome to my Covid-19 Clinical Trials Analysis project! This deep dive explores the global response to the Covid-19 pandemic through the lens of clinical research. Using Python and Tableau, we unpack trends, trial phases, intervention types, and more: sourced from clinicaltrials.gov.
 
@@ -64,7 +64,7 @@ To analyze the global landscape of Covid-19 clinical trials by:
 * Add machine learning to predict trial outcomes or estimate completion times
 * Integrate Natural Language Processing (NLP) to analyze trial descriptions and titles
 * Create a real-time dashboard using live data sources (e.g., ClinicalTrials.gov API)
-* Deploy this as a web app for researchers and policymakers 💉🌍
+* Deploy this as a web app for researchers and policymakers 
 
 ## 🙌 Acknowledgments
 Huge thanks to the open-source community and dataset contributors. 
