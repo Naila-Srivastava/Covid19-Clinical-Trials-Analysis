@@ -13,7 +13,7 @@ To analyze the global landscape of Covid-19 clinical trials by:
 ## 🔧 Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Tableau Public (for interactive dashboard): [https://public.tableau.com/app/profile/naila.srivastava/viz/Covid-19ClinicalTrialsDashboard_17484336631320/Covid-19TableauDashboard ] 
+- [Tableau Public (for interactive dashboard)](https://public.tableau.com/app/profile/naila.srivastava/viz/Covid-19ClinicalTrialsDashboard_17484336631320/Covid-19TableauDashboard)
 - Jupyter Notebook
 - Git & GitHub (for version control)
 
@@ -22,7 +22,7 @@ To analyze the global landscape of Covid-19 clinical trials by:
 - The dataset includes information on Covid-19-related trials: NCT number, country, phase, intervention type, sponsor, enrollment size, starting date, completion date and more.
 - Due to privacy and size limits, the full dataset is not included in this repo.
 
-➡️ [Download dataset here] [https://www.kaggle.com/datasets/nailasrivastava/covid-19-clinical-trials-data ]
+➡️ [Download dataset here](https://www.kaggle.com/datasets/nailasrivastava/covid-19-clinical-trials-data)
 
 ## 💻 How to Run
 1. Clone the repo  
