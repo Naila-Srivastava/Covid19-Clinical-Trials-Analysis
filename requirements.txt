@@ -1,10 +1,7 @@
-# Required packages and tools for this project 💻
-
-- pandas
-- numpy
-- csv
-- matplotlib
-- seaborn
-- plotly
-- jupyter
-- wordcloud
+pandas
+numpy
+csv
+matplotlib
+seaborn
+plotly
+jupyter
