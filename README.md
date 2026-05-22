@@ -1,16 +1,16 @@
-# Covid-19 Clinical Trials Analysis Project
+# COVID-19 Clinical Trials Analysis Project
 
-Welcome to my Covid-19 Clinical Trials Analysis project! This deep dive explores the global response to the Covid-19 pandemic through the lens of clinical research. Using Python and Tableau, we unpack trends, trial phases, intervention types, and more: sourced from clinicaltrials.gov.
+This deep dive explores the global response to the COVID-19 pandemic through the lens of clinical research. Using Python and Tableau, we unpack trends, trial phases, intervention types, and more: sourced from clinicaltrials.gov.
 
-## 🧠 Objective
+## Objective
 
-To analyze the global landscape of Covid-19 clinical trials by:
+To analyse the global landscape of COVID-19 clinical trials by:
 - Cleaning and preprocessing raw trial data
 - Performing in-depth data analysis (Univariate and Bivariate Data Analysis)
-- Creating meaningful visualizations of key trends
+- Creating meaningful visualisations of key trends
 - Laying the groundwork for potential machine learning use cases
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - [Tableau Public (for interactive dashboard)](https://public.tableau.com/app/profile/naila.srivastava/viz/Covid-19ClinicalTrialsDashboard_17484336631320/Covid-19TableauDashboard)
@@ -24,13 +24,13 @@ To analyze the global landscape of Covid-19 clinical trials by:
 
 ➡️ [Download dataset here](https://www.kaggle.com/datasets/nailasrivastava/covid-19-clinical-trials-data)
 
-## 💻 How to Run
+## How to Run
 1. Clone the repo  
 2. Install dependencies: `pip install -r requirements.txt`  
 3. Open the notebook: `Covid-19_Clinical_trials.ipynb`  
 4. Run all cells and enjoy the visuals!
 
-## 📊 Key Analysis
+## Key Analysis
 
 * Trial Status Distribution
 * Phase-wise Progression
@@ -39,34 +39,34 @@ To analyze the global landscape of Covid-19 clinical trials by:
 * Intervention Types & Therapeutic Areas
 * Country-wise Contributions
 
-## 📈 Sample Visualizations
+## Sample Visualisations
 
 * Bar Charts
 * Line Charts
 * Funnel Chart
 
-## 🌍 Advanced Visuals
+## Advanced Visuals
 
 * Choropleth World Map
 * Interactive Filters 
 
-## 📝 Key Takeaways
+## Key Takeaways
 
-* Most COVID-19 clinical trials peaked between 2020–2021, coinciding with the global outbreak timeline.
+* Most COVID-19 clinical trials peaked between 2020 and 2021, coinciding with the global outbreak timeline.
 * A large proportion of trials are in early phases, highlighting the urgency and experimental nature of pandemic-era research.
 * The United States led in trial count, but other countries like China, India, and Iran had significant contributions.
-* “Completed” and “Recruiting” were the most common statuses, while many trials still remain “Unknown” or “Withdrawn.”
+* “Completed” and “Recruiting” were the most common statuses, while many trials remain “Unknown” or “Withdrawn.”
 * Top sponsors included major pharma companies and global research institutions—big names stepped up.
 * Therapeutic areas focused heavily on antivirals, respiratory interventions, and immune-modulating therapies.
 
-## 🧩 What’s Next?
+## What’s Next?
 
 * Add machine learning to predict trial outcomes or estimate completion times
-* Integrate Natural Language Processing (NLP) to analyze trial descriptions and titles
+* Integrate Natural Language Processing (NLP) to analyse trial descriptions and titles
 * Create a real-time dashboard using live data sources (e.g., ClinicalTrials.gov API)
 * Deploy this as a web app for researchers and policymakers 
 
-## 🙌 Acknowledgments
+## Acknowledgments
 Huge thanks to the open-source community and dataset contributors. 
 This project was done as part of a 12-week upskilling sprint (Data Analyst Internship).
 
